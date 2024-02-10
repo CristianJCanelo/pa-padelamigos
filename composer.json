@@ -1,0 +1,20 @@
+{
+  "name": "padelamigos/pa-padelamigos",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "jcanelo",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "tareq1988/wp-eloquent": "dev-master"
+  },
+  "config": {
+    "allow-plugins": {
+      "kylekatarnls/update-helper": true
+    }
+  }
+}
